@@ -1,3 +1,60 @@
+# Web Development Project 6 - *Brewery Dashboard (Part 2)* 🍺
+
+Submitted by: **Deborah Oladokun**
+
+This web app: **Lets users view, search, filter, and analyze brewery information with rich, interactive visualizations.**
+
+Time spent: **10** hours spent in total
+
+---
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **Clicking on an item in the list view displays more details about it**
+  - Clicking on an item in the dashboard list navigates to a detail view for that item
+  - Detail view includes extra information about the item not included in the dashboard view
+    * (*Shows full street address, phone number, brewery type, and link to location on Google Maps*)
+  - The same sidebar is displayed in detail view as in dashboard view
+  - *To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.*
+- [x] **Each detail view of an item has a direct, unique URL link to that item’s detail view page**
+  -  *To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.*
+- [x] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
+  - At least two charts should be incorporated into the dashboard view of the site
+  - Each chart should describe a different aspect of the dataset  
+    * (*Brewery type distribution*)  
+    * (*Website availability*)  
+    * (*Top states by number of breweries*)  
+    * (*Latitude + Longitude*)
+
+---
+
+## Optional Features
+
+The following **optional** features are implemented:
+
+- [x] The site’s customized dashboard contains more content that explains what is interesting about the data 
+  - e.g., an additional description, graph annotation, suggestion for which filters to use, or an additional page that explains more about the data
+    * (*Filter Tips tooltip suggests helpful filters to try*) 
+    * (*Additional 'About' page explaining more*) 
+- [x] The site allows users to toggle between different data visualizations
+  - User should be able to use some mechanism to toggle between displaying and hiding visualizations 
+
+---
+
+## Walkthrough GIF
+
+Here's a walkthrough of implemented user stories:
+
+<!-- https://i.imgur.com/dmNIuj9.gif -->
+<!-- https://imgur.com/a/wzmN1sL -->
+<img src="src/assets/project6_walkthrough.gif" width="600" alt='Walkthrough GIF' />
+
+
+---
+
+
 # Web Development Project 5 - *Brewery Dashboard* 🍺
 
 Submitted by: **Deborah Oladokun**
