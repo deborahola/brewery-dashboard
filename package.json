@@ -1,7 +1,7 @@
 {
   "name": "brewery-dashboard",
   "private": true,
-  "homepage": "https://deborahola.github.io/web102_project5",
+  "homepage": "https://deborahola.github.io/brewery-dashboard",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
